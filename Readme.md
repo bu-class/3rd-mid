@@ -1,3 +1,16 @@
+## DSA 
+1. data structure 
+- A data structure is a specialized format for organizing, processing, retrieving and storing data
+
+2. classification of data structure
+-  primitive data structure and non-primitive data structure.
+
+3. type of data sturucture
+-  Linear data structures
+- Tree data structures
+- Hash tables
+- Graph data structures
+
 ## Discrete Mathmetics suggestion
 
 1. Graph Theory.
